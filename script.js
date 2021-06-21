@@ -1,4 +1,4 @@
-let backgroungImg;
+let backgroundImg;
 let linesList = [];
 let wordsList = [];
 let stroke_color; 
