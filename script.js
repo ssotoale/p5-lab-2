@@ -1,7 +1,3 @@
-
-let stroke_color; 
-let fill_color; 
-
 function preload() {
 }
 
